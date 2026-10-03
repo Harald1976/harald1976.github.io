@@ -1,5 +1,12 @@
 # Redirection
 
+#### Bank
+[COOP](https://netbank.coopbank.dk/privat/frontpage) * 
+[Nordnet](https://nordnet.dk/) * 
+[eBoks](https://eboks.dk) 
+
+
+
 [OZ1AAB ham radio](/oz1aab.html)  
 [Laser cutting, 2D](/LaserCutter2D)  
 [ESP32 things](https://github.com/Fihl/Stuff/tree/main/ESP32)  
