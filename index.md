@@ -16,6 +16,8 @@
 [cdon](https://cdon.dk/) * 
 [Dam](https://www.williamdam.dk/) * 
 [Københavns biblioteker](https://bibliotek.kk.dk/) * 
+[Oktober](https://oktober.no/) * 
+
 [Saxo](https://www.saxo.dk/) * 
 [Små forlag](https://mikrofest.dk/) * 
 [Århus Universitetsforlag](https://unipress.dk/)
