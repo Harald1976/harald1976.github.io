@@ -11,6 +11,7 @@
 [Bogbasen](https://bogbasen.dk) ⦁ 
 [Boggaragen](https://boggaragen.dk) ⦁ 
 [Bogtorvet](https://www.bogtorvet.net) ⦁ 
+[Bokkilden](https://www.bogkilden.no) ⦁ 
 [Bookfinder](https://www.bookfinder.com/) ⦁ 
 [Bookstone](https://bookstone.dk/) ⦁ 
 [cdon](https://cdon.dk/) ⦁ 
